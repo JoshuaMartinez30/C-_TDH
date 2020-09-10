@@ -1,4 +1,4 @@
-# Punto de Control 6
+# Proyecto Parte 1
 
 ## :copyright: Autor
 

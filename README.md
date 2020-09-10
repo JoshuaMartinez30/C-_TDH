@@ -36,7 +36,7 @@ Proyecto Parte 1 **C++** diseñado para demostrar:
 
 ## :white_circle: Salida 
 
-![](imagenes/salida.png)
+![](imagenes/Salida.png)
 
 
 
